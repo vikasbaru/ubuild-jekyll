@@ -18,7 +18,7 @@ page_sections:
   cta:
     url: www.platform.ai
     button_text: Sign up
-    undefined: "#9013FE"
+    undefined: "#280844"
   undefined: "#BD10E0"
 - template: hero-banner-w-image
   block: hero-2
