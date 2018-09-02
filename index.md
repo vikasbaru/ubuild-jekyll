@@ -73,7 +73,7 @@ page_sections:
     article</a> to make the most out of your models.</p></li></ol>
 - template: signup-bar
   block: cta-bar
-  content: Sign up now to get started!
+  background_color: "#4E2020"
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in San Francisco
