@@ -70,7 +70,7 @@ page_sections:
   content: <p>Platform is an interactive image segmentation tool for everyone. It's
     easy to get started!</p><ol><li><p>Sign up here</p></li><li><p>Upload your images</p></li><li><p>Create
     your own models</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li></ol>
+    article</a> to make the most out of your models.</p></li></ol>
 - template: signup-bar
   block: cta-bar
   content: Sign up now to get started!
