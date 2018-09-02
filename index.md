@@ -80,7 +80,7 @@ page_sections:
   content: Made with ❤︎ in San Francisco
 - template: signup-bar
   block: cta-bar
-  background_color: "#4E1212"
+  background_color: "#792424"
 
 ---
 foo bar
