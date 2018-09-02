@@ -62,7 +62,7 @@ page_sections:
     create new sites and make them fully customizable. \U0001F447"
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2018/09/02/Screen Shot 2018-09-02 at 18.29.38.png"
+  image: "/uploads/2018/09/02/Screen Shot 2018-09-02 at 18.29.38-1.png"
   caption: All Available Models
 - template: detail-content
   block: text-1
