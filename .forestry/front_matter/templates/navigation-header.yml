@@ -24,7 +24,3 @@ fields:
     label: Link text
   config:
     labelField: link_text
-- type: color
-  config:
-    color_format: Hex
-  default: "#9013FE"
