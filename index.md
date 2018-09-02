@@ -20,6 +20,7 @@ page_sections:
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Sign up
+  undefined: 
 - template: hero-banner-w-image
   block: hero-2
   headline: Platform.ai<strong><br>Deep Learning Anyone Can Use</strong>
@@ -78,6 +79,9 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Platform.ai will rock your world! ❤︎
+- template: navigation-header-w-button
+  block: header-2
+  undefined: "#9013FE"
 published: false
 
 ---
