@@ -62,7 +62,7 @@ page_sections:
     create new sites and make them fully customizable. \U0001F447"
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2018/06/21/theme.png"
+  image: "/uploads/2018/09/02/Screen Shot 2018-09-02 at 18.29.38.png"
   caption: All Available Models
 - template: detail-content
   block: text-1
@@ -71,6 +71,9 @@ page_sections:
     easy to get started!</p><ol><li><p>Sign up here</p></li><li><p>Upload your images</p></li><li><p>Create
     your own models</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
     article</a> and create your own Blocks.</p></li></ol>
+- template: signup-bar
+  block: cta-bar
+  content: Sign up now to get started!
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in San Francisco
