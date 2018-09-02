@@ -33,5 +33,5 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- pricing.md
 - index.md
+- pricing.md
