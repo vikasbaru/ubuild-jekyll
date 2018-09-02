@@ -56,7 +56,7 @@ page_sections:
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
-  headline: Get inspired by sample apps
+  headline: Get inspired by examples
   content: "These models show the some Platform.ai use cases but to harness the power
     of AI we recommend uploading your own images. Once your images are uploaded you
     can immediately create new models and make them fully customizable. \U0001F447"
