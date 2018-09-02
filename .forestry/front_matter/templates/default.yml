@@ -9,5 +9,6 @@ fields:
   hidden: false
   default: default
 pages:
+- _posts/testing.md
 - sign_in.md
 - about.md
