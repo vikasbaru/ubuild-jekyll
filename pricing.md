@@ -15,6 +15,5 @@ page_sections:
   media_alignment: Right
 - template: 4-column-footer
   block: footer-2
-published: false
 
 ---
