@@ -33,7 +33,3 @@ fields:
   - type: text
     name: button_text
     label: Button Text
-  - type: color
-    config:
-      color_format: Hex
-      required: true
