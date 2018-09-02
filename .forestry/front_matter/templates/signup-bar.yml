@@ -1,7 +1,7 @@
 ---
 label: signup-bar
 hide_body: false
-is_partial: true
+is_partial: false
 fields:
 - type: text
   label: block
@@ -19,3 +19,6 @@ fields:
   name: email_recipient
   label: Email Recipient
   description: Form submissions will be sent to this email address.
+- type: color
+  config:
+    color_format: Hex
