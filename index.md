@@ -18,7 +18,7 @@ page_sections:
   cta:
     url: www.platform.ai
     button_text: Sign up
-    undefined: "#82659E"
+    undefined: "#9013FE"
   undefined: "#BD10E0"
 - template: hero-banner-w-image
   block: hero-2
@@ -27,7 +27,7 @@ page_sections:
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
-    button_text: Sign up
+    button_text: Get started
   image:
     image: "/uploads/2018/09/02/insurance.png"
     alt_text: Product Shot
@@ -42,8 +42,8 @@ page_sections:
     visual pattern recognition with AI's power to process huge datasets, makes novel
     applications.
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
+    image: "/uploads/2018/09/02/indoor-outdoor.png"
+    alt_text: Indoor Outdoor
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -74,7 +74,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in San Francisco
-published: false
 
 ---
 foo bar
