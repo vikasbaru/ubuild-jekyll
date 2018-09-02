@@ -22,8 +22,7 @@ page_sections:
     button_text: Sign up
 - template: hero-banner-w-image
   block: hero-2
-  headline: Platform.ai<br><strong>design blocks<br></strong>Deep Learning Anyone
-    Can Use
+  headline: Platform.ai<strong><br>Deep Learning Anyone Can Use</strong>
   content: Train an accurate image classification model in minutes with zero coding.
   cta:
     enabled: true
