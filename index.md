@@ -73,7 +73,8 @@ page_sections:
     article</a> to make the most out of your models.</p></li></ol>
 - template: signup-bar
   block: cta-bar
-  background_color: "#FFFFFF"
+  background_color: "#290606"
+  content: Sign up now and get running in minutes
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in San Francisco
