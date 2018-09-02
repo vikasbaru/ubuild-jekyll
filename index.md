@@ -15,12 +15,11 @@ page_sections:
     link_text: Pricing
   - link: ''
     link_text: About
-  - link: "#"
-    link_text: Team
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
+    url: www.platform.ai
     button_text: Sign up
-  undefined: 
+    undefined: "#9013FE"
+  undefined: "#BD10E0"
 - template: hero-banner-w-image
   block: hero-2
   headline: Platform.ai<strong><br>Deep Learning Anyone Can Use</strong>
