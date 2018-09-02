@@ -9,4 +9,5 @@ fields:
   hidden: false
   default: default
 pages:
+- sign_in.md
 - about.md
