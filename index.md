@@ -57,9 +57,9 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Get inspired by sample apps
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create new sites and make them fully customizable. \U0001F447"
+  content: "These models show the some Platform.ai use cases but to harness the power
+    of AI we recommend uploading your own images. Once your images are uploaded you
+    can immediately create new models and make them fully customizable. \U0001F447"
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/09/02/logos.png"
