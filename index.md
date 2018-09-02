@@ -77,6 +77,7 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Platform.ai will rock your world! ❤︎
+published: false
 
 ---
 foo bar
