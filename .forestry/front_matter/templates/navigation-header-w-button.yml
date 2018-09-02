@@ -36,3 +36,4 @@ fields:
   - type: color
     config:
       color_format: Hex
+      required: true
