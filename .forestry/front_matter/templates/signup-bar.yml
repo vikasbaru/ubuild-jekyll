@@ -7,7 +7,6 @@ fields:
   label: block
   name: block
   default: cta-bar
-  background: 4e1212
   hidden: true
 - type: textarea
   name: content
