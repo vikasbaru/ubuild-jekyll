@@ -11,6 +11,7 @@ fields:
 - type: file
   name: logo
   label: Logo
+  default: "/uploads/2018/09/02/Screen Shot 2018-09-02 at 08.59.01.png"
 - type: field_group_list
   name: navigation
   label: Navigation
