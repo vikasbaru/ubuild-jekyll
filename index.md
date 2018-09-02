@@ -78,6 +78,9 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in San Francisco
+- template: signup-bar
+  block: cta-bar
+  background_color: "#4E1212"
 
 ---
 foo bar
