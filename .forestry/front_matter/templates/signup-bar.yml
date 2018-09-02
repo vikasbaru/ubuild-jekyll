@@ -1,7 +1,7 @@
 ---
 label: signup-bar
 hide_body: false
-is_partial: false
+is_partial: true
 fields:
 - type: text
   label: block
@@ -22,3 +22,7 @@ fields:
 - type: color
   config:
     color_format: Hex
+    required: true
+  label: background color
+  name: background_color
+  description: Pick a color
