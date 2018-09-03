@@ -76,6 +76,12 @@ page_sections:
   col_1:
     headline: Upload
     content: Upload your images
+  col_2:
+    headline: 'Train '
+    content: 'Train your model '
+  col_3:
+    headline: Predict
+    content: Predict on new images
 - template: signup-bar
   block: cta-bar
   background_color: "#6B0EBB"
