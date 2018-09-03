@@ -5,7 +5,7 @@ date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/09/02/Screen Shot 2018-09-02 at 08.59.01.png"
+  logo: "/uploads/2018/09/03/icon-above-font.png"
   navigation:
   - link: "/"
     link_text: Home
