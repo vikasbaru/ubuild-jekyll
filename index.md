@@ -74,15 +74,18 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: 1. Upload
-    content: 'Upload in your training data and Platform automatically builds you a
-      custom deep learning model. '
+    headline: 1. Build
+    content: Upload in your training data and Platform automatically builds you a
+      custom deep learning model. Then refine your model by adjusting settings and
+      connecting pre-trained building blocks.
   col_2:
     headline: 'Train '
-    content: 'Train your model '
+    content: Monitor training progress in real-time with interactive charts and test
+      results that update live as your model improves. Cloud training lets you get
+      results quickly, without slowing down your computer.
   col_3:
-    headline: Predict
-    content: Predict on new images
+    headline: Ship
+    content: Export your trained model and do cool things with it
 - template: signup-bar
   block: cta-bar
   background_color: "#6B0EBB"
