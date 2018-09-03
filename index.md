@@ -71,6 +71,11 @@ page_sections:
     It's easy to get started!</p><ol><li><p>Sign up here</p></li><li><p>Upload your
     images</p></li><li><p>Create your own models</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
     article</a> to make the most out of your models.</p></li></ol>
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Upload
+    content: Upload your images
 - template: signup-bar
   block: cta-bar
   background_color: "#6B0EBB"
