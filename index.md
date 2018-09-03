@@ -100,9 +100,10 @@ page_sections:
   content: Sign up now and get running in minutes
 - template: 4-column-footer
   block: footer-2
-  col_2: Platform<br>Join Beta <br>Examples<br>About
-  col_3: Contact us <br>Press kit
-  col_4: Follow<br>Twitter<br>Facebook
+  col_2: "<strong>Platform</strong><br>Join Beta <br>Examples<br>About"
+  col_3: "<strong>Legal</strong> <br>Privacy <br>Terms of Service "
+  col_4: "<strong>Follow</strong><br>Twitter<br>Press kit<br>Facebook<br>Newsletter<br>Contact
+    us "
   image: "/uploads/2018/09/02/Screen Shot 2018-09-02 at 08.59.01.png"
 
 ---
