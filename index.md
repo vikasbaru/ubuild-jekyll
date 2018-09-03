@@ -74,8 +74,9 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: Upload
-    content: Upload your images
+    headline: 1. Upload
+    content: 'Upload in your training data and Platform automatically builds you a
+      custom deep learning model. '
   col_2:
     headline: 'Train '
     content: 'Train your model '
