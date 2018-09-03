@@ -106,7 +106,7 @@ page_sections:
   col_3: "<strong>Legal</strong> <br>Privacy <br>Terms of Service "
   col_4: "<strong>Follow</strong><br>Twitter<br>Press kit<br>Facebook<br>Newsletter<br>Contact
     us "
-  image: "/uploads/2018/09/02/Screen Shot 2018-09-02 at 08.59.01.png"
+  image: "/uploads/2018/09/03/logo1-1.png"
 
 ---
 foo bar
