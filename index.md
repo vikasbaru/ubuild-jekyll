@@ -93,6 +93,11 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in San Francisco
+- template: 4-column-footer
+  block: footer-2
+  col_2: Platform<br>Join Beta <br>Examples<br>About
+  col_3: Contact us <br>Press kit
+  col_4: Follow<br>Twitter<br>Facebook
 
 ---
 foo bar
