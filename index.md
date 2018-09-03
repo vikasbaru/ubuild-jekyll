@@ -62,6 +62,8 @@ page_sections:
   content: What Github did for open source software, we hope Platform can do for deep
     learning. We encourage scientists, researchers, students and hobbyist to use Platform
     to collaboratively solve some of the most challenging vision problems.
+  media:
+    image: "/uploads/2018/09/03/Open-Source.png"
 - template: 1-column-text
   block: one-column-1
   headline: Get inspired by examples
