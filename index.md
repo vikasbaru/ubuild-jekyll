@@ -49,11 +49,19 @@ page_sections:
   media_alignment: Right
   headline: <strong>Customize models</strong><span class="light"> to make AI work
     for you</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
+  content: Each model comes with custom settings that can easily be edited in Platform's
+    UI.
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: <strong>Free</strong><span class="Apple-converted-space">&nbsp;</span>for
+    public projects
+  content: What Github did for open source software, we hope Platform can do for deep
+    learning. We encourage scientists, researchers, students and hobbyist to use Platform
+    to collaboratively solve some of the most challenging vision problems.
 - template: 1-column-text
   block: one-column-1
   headline: Get inspired by examples
