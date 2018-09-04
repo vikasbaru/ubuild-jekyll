@@ -11,6 +11,7 @@ page_sections:
   col_2:
     content: 'talk '
     headline: 'talk talk talk '
+published: false
 
 ---
 ## Jeremy gave this Ted talk
