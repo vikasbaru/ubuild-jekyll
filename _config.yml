@@ -19,7 +19,7 @@ gems:
   - jekyll-feed
   - jekyll-menus
   
-permalink: /:categories/:title/ #trying to change posts permalink
+permalink: /:categories/:title:output_ext #trying to change posts permalink
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
