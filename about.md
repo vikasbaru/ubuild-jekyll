@@ -2,6 +2,12 @@
 title: about
 layout: default
 date: 2018-09-02 07:05:15 +0000
+page_sections:
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: text
+    content: 'texty text '
 
 ---
 ## Jeremy gave this Ted talk
