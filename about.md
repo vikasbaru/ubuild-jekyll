@@ -8,6 +8,9 @@ page_sections:
   col_1:
     headline: text
     content: 'texty text '
+  col_2:
+    content: 'talk '
+    headline: 'talk talk talk '
 
 ---
 ## Jeremy gave this Ted talk
