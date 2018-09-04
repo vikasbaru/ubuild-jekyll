@@ -33,6 +33,6 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- _posts/post.md
+- _posts/2018-09-04-post.md
 - index.md
 - pricing.md
