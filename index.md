@@ -13,7 +13,7 @@ page_sections:
     link_text: Features
   - link: "#"
     link_text: Pricing
-  - link: ''
+  - link: https://ctk2h-9a57rt2a.preview.forestry.io/about.html
     link_text: About
   cta:
     url: www.platform.ai
