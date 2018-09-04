@@ -8,6 +8,5 @@ page_sections:
   media_alignment: Right
   headline: Lots of text
   content: So much text
-published: false
 
 ---
