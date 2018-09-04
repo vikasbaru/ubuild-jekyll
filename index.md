@@ -98,7 +98,7 @@ page_sections:
     content: Export your trained model and do cool things with it
 - template: signup-bar
   block: cta-bar
-  background_color: "#6B0EBB"
+  background_color: "#380B5F"
   content: Sign up now and get running in minutes
 - template: 4-column-footer
   block: footer-2
