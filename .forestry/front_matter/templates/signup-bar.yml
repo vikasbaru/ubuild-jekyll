@@ -26,3 +26,4 @@ fields:
   label: background color
   name: background_color
   description: Pick a color
+  default: "#9013FE"
