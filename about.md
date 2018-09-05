@@ -7,6 +7,6 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: Lots of text
-  content: So much text
+  content: So much text..!
 
 ---
