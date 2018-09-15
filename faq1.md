@@ -32,37 +32,6 @@ page_sections:
     image: "/uploads/2018/09/02/insurance.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  headline: <strong>Your</strong><span class="Apple-converted-space">&nbsp;</span>deep
-    learning app in minutes
-  content: Upload your unlabeled images and use AI to help you quickly create powerful
-    image classification models specifically for your data.<br><br>Combine human visual
-    pattern recognition with AI's power to process huge datasets, making novel applications.
-  media:
-    image: "/uploads/2018/09/02/indoor-outdoor.png"
-    alt_text: Indoor Outdoor
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: <strong>Customize models</strong><span class="light"> to make AI work
-    for you</span>
-  content: Each model comes with custom settings that can easily be edited in Platform's
-    UI.
-  media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: <strong>Free</strong><span class="Apple-converted-space">&nbsp;</span>for
-    public projects
-  content: What Github did for open source software, we hope Platform can do for deep
-    learning. We encourage scientists, researchers, students and hobbyist to use Platform
-    to collaboratively solve some of the most challenging vision problems.
-  media:
-    image: "/uploads/2018/09/03/Open-Source.png"
 - template: 1-column-text
   block: one-column-1
   headline: Get inspired by examples
