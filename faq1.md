@@ -75,13 +75,17 @@ page_sections:
   caption: All Available Models
 - template: detail-content
   block: text-1
-- template: detail-content
-  block: text-1
-- template: detail-content
-  block: text-1
   headline: Is it really free for public projects?
   content: "<p>Yes, we want to do for deep learning, what Github did for open source
     software. If you share your data and models, you can use Platform for free.</p>"
+- template: detail-content
+  block: text-1
+  headline: Once I train a model, what can I do with it?
+  content: "<p>A trained model can be used to classify all of your images and produce
+    a CSV file with the results. The model can also be used to classify new images
+    from outside of the application using an API endpoint.</p>"
+- template: detail-content
+  block: text-1
 - template: detail-content
   block: text-1
 - template: detail-content
