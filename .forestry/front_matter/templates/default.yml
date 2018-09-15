@@ -9,5 +9,4 @@ fields:
   hidden: false
   default: default
 pages:
-- _posts/2018-09-02-testing.md
 - sign_in.md
