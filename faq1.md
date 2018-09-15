@@ -32,12 +32,6 @@ page_sections:
     image: "/uploads/2018/09/02/insurance.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
-- template: 1-column-text
-  block: one-column-1
-  headline: Get inspired by examples
-  content: "These models show the some Platform.ai use cases but to harness the power
-    of AI we recommend uploading your own images. Once your images are uploaded you
-    can immediately create new models and make them fully customizable. \U0001F447"
 - template: detail-content
   block: text-1
   headline: Is it really free for public projects?
@@ -47,13 +41,13 @@ page_sections:
   headline: Once I train a model, what can I do with it?
   content: "<p>A trained model can be used to classify all of your images and produce
     a CSV file with the results. The model can also be used to classify new images
-    from outside of the application using an API endpoint.</p>"
+    from outside of the application using an API endpoint.</p><p></p><p></p>"
 - template: detail-content
   block: text-1
   headline: Can I upload my own images?
   content: "<p>Yes, you can batch upload a collection of images from a local machine.
     Soon you will be able to upload your own images from these other sources: S3,
-    GCS, Dropbox, etc.</p><p><br></p>"
+    GCS, Dropbox, etc.</p>"
 - template: detail-content
   block: text-1
   headline: What if I have millions of images?
