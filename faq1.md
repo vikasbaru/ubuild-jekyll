@@ -53,7 +53,7 @@ page_sections:
   headline: Can I upload my own images?
   content: "<p>Yes, you can batch upload a collection of images from a local machine.
     Soon you will be able to upload your own images from these other sources: S3,
-    GCS, Dropbox, etc.</p>"
+    GCS, Dropbox, etc.</p><p><br></p>"
 - template: detail-content
   block: text-1
   headline: What if I have millions of images?
