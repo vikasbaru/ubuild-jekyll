@@ -15,6 +15,8 @@ page_sections:
     link_text: Pricing
   - link: https://ctk2h-9a57rt2a.preview.forestry.io/faq.html
     link_text: FAQ
+  - link: ''
+    link_text: Examples
   - link: https://ctk2h-9a57rt2a.preview.forestry.io/about.html
     link_text: About
   cta:
@@ -90,7 +92,7 @@ page_sections:
       custom deep learning model. Then refine your model by adjusting settings and
       connecting pre-trained building blocks.
   col_2:
-    headline: 2. 'Train '
+    headline: 2. Train
     content: Monitor training progress in real-time with interactive charts and test
       results that update live as your model improves. Cloud training lets you get
       results quickly, without slowing down your computer.
