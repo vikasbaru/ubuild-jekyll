@@ -102,14 +102,36 @@ page_sections:
     only once.</p>"
 - template: detail-content
   block: text-1
+  headline: How fast are predictions?
+  content: "<p>API end-point predictions are typically in the millisecond to a few
+    seconds range.</p>"
 - template: detail-content
   block: text-1
+  headline: How many images do I need to hand label?
+  content: "<p>With only a limited amount of hand-labeled images, you can build a
+    classification model. However, the performance is dependent on the complexity
+    of the use case. Some image sets require as little as 50 images per class for
+    acceptable performance. As more images are labeled the accuracy of the model will
+    improve. Platform displays the the current accuracy of the model so you can judge
+    for yourself how many labels are needed.</p>"
 - template: detail-content
   block: text-1
+  headline: Can I deploy on-premise?
+  content: <p>Yes, you can be deploy models trained on Platform in your own data center
+    or private cloud. Get <a href="mailto:team@platform.ai">in touch</a> to request
+    a model binary package.</p>
 - template: detail-content
   block: text-1
+  headline: Can I use platform to do something other than classification?
+  content: "<p>Initially, Platform supports the training of models for image classification
+    and similarity.</p><p>We are working to add other vision tasks with the intuitiveness
+    of our classification user interface.</p>"
 - template: detail-content
   block: text-1
+  headline: Who owns the data and the models?
+  content: "<p>If you have a paid account, you own the data and models. If you are
+    using our free service, your images and models are available to Platform and other
+    users.</p>"
 - template: 3-column-text
   block: three-column-1
   col_1:
