@@ -76,7 +76,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/09/02/logos.png"
-  caption: All Available Models
+  caption: Logos Demo
 - template: detail-content
   block: text-1
   headline: Steps to Build an AI Model!
