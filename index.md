@@ -38,9 +38,8 @@ page_sections:
   headline: <strong>Your</strong><span class="Apple-converted-space">&nbsp;</span>deep
     learning app in minutes
   content: Upload your unlabeled images and use AI to help you quickly create powerful
-    image classification models specifically for your data.<br><br>Combining human
-    visual pattern recognition with AI's power to process huge datasets, makes novel
-    applications.
+    image classification models specifically for your data.<br><br>Combine human visual
+    pattern recognition with AI's power to process huge datasets, making novel applications.
   media:
     image: "/uploads/2018/09/02/indoor-outdoor.png"
     alt_text: Indoor Outdoor
