@@ -1,6 +1,6 @@
 ---
-layout: blocks
 title: FAQ
+layout: blocks
 date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
@@ -23,11 +23,11 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: Platform.ai<strong><br>Deep Learning Anyone Can Use</strong>
-  content: Train an accurate image classification model in minutes with zero coding.
+  content: You got questions? We have answers!
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
-    button_text: Get started
+    button_text: Learn more
   image:
     image: "/uploads/2018/09/02/insurance.png"
     alt_text: Product Shot
