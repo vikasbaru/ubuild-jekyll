@@ -76,7 +76,7 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Is it really free for public projects?
-  content: "<p>Yes</p>"
+  content: "<p>Yes. </p>"
 - template: detail-content
   block: text-1
   headline: Once I train a model, what can I do with it?
