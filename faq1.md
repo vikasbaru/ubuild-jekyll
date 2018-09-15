@@ -35,7 +35,7 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Is it really free for public projects?
-  content: "<p>Yes. </p>"
+  content: "<p>Yes.</p><p></p><p></p>"
 - template: detail-content
   block: text-1
   headline: Once I train a model, what can I do with it?
@@ -47,7 +47,7 @@ page_sections:
   headline: Can I upload my own images?
   content: "<p>Yes, you can batch upload a collection of images from a local machine.
     Soon you will be able to upload your own images from these other sources: S3,
-    GCS, Dropbox, etc.</p>"
+    GCS, Dropbox, etc.</p><p></p><p></p>"
 - template: detail-content
   block: text-1
   headline: What if I have millions of images?
@@ -58,12 +58,12 @@ page_sections:
   headline: How are images billed?
   content: "<p>Images that are stored and used for (re)training are billed monthly.
     Images that are only used for prediction using the API end-point or CSV are billed
-    only once.</p>"
+    only once.</p><p></p><p></p>"
 - template: detail-content
   block: text-1
   headline: How fast are predictions?
   content: "<p>API end-point predictions are typically in the millisecond to a few
-    seconds range.</p>"
+    seconds range.</p><p></p><p></p>"
 - template: detail-content
   block: text-1
   headline: How many images do I need to hand label?
@@ -72,25 +72,25 @@ page_sections:
     of the use case. Some image sets require as little as 50 images per class for
     acceptable performance. As more images are labeled the accuracy of the model will
     improve. Platform displays the the current accuracy of the model so you can judge
-    for yourself how many labels are needed.</p>"
+    for yourself how many labels are needed.</p><p></p><p></p>"
 - template: detail-content
   block: text-1
   headline: Can I deploy on-premise?
   content: <p>Yes, you can be deploy models trained on Platform in your own data center
     or private cloud. Get <a href="mailto:team@platform.ai">in touch</a> to request
-    a model binary package.</p>
+    a model binary package.</p><p></p><p></p>
 - template: detail-content
   block: text-1
   headline: Can I use platform to do something other than classification?
   content: "<p>Initially, Platform supports the training of models for image classification
     and similarity.</p><p>We are working to add other vision tasks with the intuitiveness
-    of our classification user interface.</p>"
+    of our classification user interface.</p><p></p><p></p>"
 - template: detail-content
   block: text-1
   headline: Who owns the data and the models?
   content: "<p>If you have a paid account, you own the data and models. If you are
     using our free service, your images and models are available to Platform and other
-    users.</p>"
+    users.</p><p></p><p></p>"
 - template: 3-column-text
   block: three-column-1
   col_1:
