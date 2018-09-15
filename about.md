@@ -34,6 +34,15 @@ page_sections:
     image: "/uploads/2018/09/02/insurance.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
+- template: 1-column-text
+  block: one-column-1
+  content: Platform.AI wants to put the power of deep learning in the hands of product
+    managers and business users. By providing custom-built pre-trained models, an
+    intuitive user-interface and zero coding/devops, we enable non-engineers to apply
+    modern deep learning capabilities to their data. Users can quickly assemble image
+    classification, similarity and object detection applications even if the data
+    is unlabeled and they have no previous background or experience in machine learning.
+  headline: About us
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/09/15/ted.jpg"
