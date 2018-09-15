@@ -86,12 +86,10 @@ page_sections:
   block: three-column-1
   col_1:
     headline: 1. Upload
-    content: <img src="/uploads/2018/09/15/icons8-tiles-48.png"><br><a href="&lt;img
-      src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFoSURBVEhL7ZQxS8NAGIb7+wQRnEWctDpUHBQ3BRfBRYgOtlnERcQOLg5KoWk7itYfoIkmgl1q2jq1Na/3pZc0NhFzxksH+8IDH3f5voccl2T+Z45XpiACb0seGoaaGot0xe1XoMVgdbpiko5FHGBUvLmnQhTe+lXcKx2iebbN6oK/5lS/FyeKJyaplc/BUJbwRvJqATfKKrTdRXxoeTnioNSjvr/siojrnQX0yke/Omr+aDg0bFTqcpDFxfqsL7/cmguJE4WGhaQcXcmiuDbjy1MTEw9MfpqbliMWgbdNIp55dQMi8LbkoWFXRikWUsVls4JO992F6uCeFHHFrMHqvEBvGfBCtcnWNLYnTfzcNl2Z0zXh2OcDWE15YntR4qhf5E/w1qH4tlFH3+kDdhFongxgNa3RnrQ3vmvcj0ccfdSWu5bkqPmj4XhiukB0kXR7eLkeWS39cnmk/jnF4c/FIvC2SQSSyXwCxKnde1T3DUgAAAAASUVORK5CYII=&quot;&gt;"
-      title="FIvC2SQSSyXwCxKnde1T3DUgAAAAASUVORK5CYII=&quot;>">FIvC2SQSSyXwCxKnde1T3DUgAAAAASUVORK5CYII="&gt;</a><br>Upload
-      in your training data and Platform automatically builds you a custom deep learning
-      model. Then refine your model by adjusting settings and connecting pre-trained
-      building blocks.
+    content: <img src="/uploads/2018/09/15/icons8-tiles-48.png"><br>Upload in your
+      training data and Platform automatically builds you a custom deep learning model.
+      Then refine your model by adjusting settings and connecting pre-trained building
+      blocks.
   col_2:
     headline: 2. 'Train '
     content: Monitor training progress in real-time with interactive charts and test
