@@ -85,18 +85,18 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: 1. Build
-    content: <img src="/uploads/2018/09/15/camera.svg"><img src="/uploads/2018/09/15/camera.svg"><br>Upload
+    headline: 1. Upload
+    content: <img src="/uploads/2018/09/15/camera.svg" style="width: 50%; height: 50%"/ ><img src="/uploads/2018/09/15/camera.svg"><br>Upload   
       in your training data and Platform automatically builds you a custom deep learning
       model. Then refine your model by adjusting settings and connecting pre-trained
       building blocks.
   col_2:
-    headline: 'Train '
+    headline: 2. 'Train '
     content: Monitor training progress in real-time with interactive charts and test
       results that update live as your model improves. Cloud training lets you get
       results quickly, without slowing down your computer.
   col_3:
-    headline: Ship
+    headline: 3. Ship
     content: Export your trained model and do cool things with it
 - template: signup-bar
   block: cta-bar
