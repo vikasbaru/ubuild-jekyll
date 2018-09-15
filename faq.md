@@ -37,7 +37,8 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Is it really free for public projects?
-  content: "<p>Yes.</p><p></p><p></p>"
+  content: "<p>Yes, we want to do for deep learning, what Github did for open source
+    software. If you share your data and models, you can use Platform for free.</p><p><br></p><p></p><p></p>"
 - template: detail-content
   block: text-1
   headline: Once I train a model, what can I do with it?
