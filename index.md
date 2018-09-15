@@ -86,7 +86,7 @@ page_sections:
   block: three-column-1
   col_1:
     headline: 1. Upload
-    content: <img src="/uploads/2018/09/15/camera.svg" style="width: 50%; height: 50%"/ ><img src="/uploads/2018/09/15/camera.svg"><br>Upload   
+    content: <img src="/uploads/2018/09/15/camera.svg"><br>Upload   
       in your training data and Platform automatically builds you a custom deep learning
       model. Then refine your model by adjusting settings and connecting pre-trained
       building blocks.
