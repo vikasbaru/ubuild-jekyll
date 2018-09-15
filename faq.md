@@ -11,6 +11,8 @@ page_sections:
     link_text: Home
   - link: "#"
     link_text: Features
+  - link: https://ctk2h-9a57rt2a.preview.forestry.io/faq.html
+    link_text: FAQ
   - link: "#"
     link_text: Pricing
   - link: https://ctk2h-9a57rt2a.preview.forestry.io/about.html
