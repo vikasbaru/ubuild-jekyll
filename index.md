@@ -86,10 +86,10 @@ page_sections:
   block: three-column-1
   col_1:
     headline: 1. Upload
-    content: <img src="/uploads/2018/09/15/camera.svg"><br>Upload   
-      in your training data and Platform automatically builds you a custom deep learning
-      model. Then refine your model by adjusting settings and connecting pre-trained
-      building blocks.
+    content: <img src="/uploads/2018/09/15/icons8-tiles-48.png"><br>Upload in your
+      training data and Platform automatically builds you a custom deep learning model.
+      Then refine your model by adjusting settings and connecting pre-trained building
+      blocks.
   col_2:
     headline: 2. 'Train '
     content: Monitor training progress in real-time with interactive charts and test
