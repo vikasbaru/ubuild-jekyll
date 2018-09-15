@@ -96,6 +96,10 @@ page_sections:
     of images.</p><p><br></p>"
 - template: detail-content
   block: text-1
+  headline: How are images billed?
+  content: "<p>Images that are stored and used for (re)training are billed monthly.
+    Images that are only used for prediction using the API end-point or CSV are billed
+    only once.</p>"
 - template: detail-content
   block: text-1
 - template: detail-content
