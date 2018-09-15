@@ -92,6 +92,9 @@ page_sections:
     GCS, Dropbox, etc.</p>"
 - template: detail-content
   block: text-1
+  headline: What if I have millions of images?
+  content: "<p>No problem, Platform is designed to scale to very large collections
+    of images.</p><p><br></p>"
 - template: detail-content
   block: text-1
 - template: detail-content
