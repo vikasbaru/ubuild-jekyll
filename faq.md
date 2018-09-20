@@ -20,7 +20,7 @@ page_sections:
     link_text: About
   cta:
     url: www.platform.ai
-    button_text: Sign up
+    button_text: Sign in
     undefined: "#9013FE"
   undefined: "#BD10E0"
 - template: hero-banner-w-image
