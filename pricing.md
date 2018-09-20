@@ -47,10 +47,11 @@ page_sections:
     content: 'Free    <br><br>Perfect for research and passion projects    <br><br>Unlimited
       use    <br><br>Data and models are public    <br><br>Prediction rate limit      '
   col_2:
-    headline: 2. Train
-    content: Monitor training progress in real-time with interactive charts and test
-      results that update live as your model improves. Cloud training lets you get
-      results quickly, without slowing down your computer.
+    headline: Professional
+    content: $295 per month <span class="blue-text">+</span><span class="Apple-converted-space">&nbsp;$</span>1.50
+      / 1000 images       <br><br>Data and models completely private    <br><br>Enhanced
+      capabilities, performance, and availability for professional applications    <br><br>No
+      rate limits    <br>
   col_3:
     headline: 3. Ship
     content: Export your trained model and do cool things with it
