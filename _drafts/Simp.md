@@ -4,15 +4,15 @@ layout: default
 date: 2018-09-20 07:05:17 -0700
 
 ---
-\# The Simpsons Character Classifier
+# The Simpsons Character Classifier
 
 \---
 
 This dataset consists of a relatively small amount of labeled screenshots of different characters from The Simpsons.
 
-\## Dataset
+## Dataset
 
- - The labeled dataset is available on Kaggle \[here\]([https://www.kaggle.com/alexattia/the-simpsons-characters-dataset](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset "https://www.kaggle.com/alexattia/the-simpsons-characters-dataset")).
+ - The labeled dataset is available on [Kaggle](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset). 
 
  - Most images/screenshots appear to contain only one character; however there is a small number of images containing multiple characters (e.g. in the background), with the labeled character taking up the majority of the image space.
 
