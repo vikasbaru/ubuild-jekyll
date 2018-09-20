@@ -36,6 +36,10 @@ page_sections:
     image: "/uploads/2018/09/02/insurance.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
+- template: 1-column-text
+  block: one-column-1
+  headline: Unlock the power of Deep Learning
+  content: 10x Better Functionality / Fraction of the Cost<br>
 - template: 3-column-text
   block: three-column-1
   col_1:
