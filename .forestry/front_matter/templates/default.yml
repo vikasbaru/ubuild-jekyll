@@ -9,4 +9,5 @@ fields:
   hidden: false
   default: default
 pages:
+- _posts/Simp.md
 - sign_in.md
