@@ -79,10 +79,10 @@ page_sections:
   caption: Logos Demo
 - template: detail-content
   block: text-1
-  headline: Steps to Build an AI Model!
+  headline: 'Steps to Build an AI Model:'
   content: <p>Platform.ai is an interactive image segmentation tool for everyone.
     It's easy to get started!</p><ol><li><p>Sign up here</p></li><li><p>Upload your
-    images</p></li><li><p>Create your own models</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
+    images</p></li><li><p>Create your own models</p></li><li><p>Read <a href="/" title="">our
     article</a> to make the most out of your models.</p></li></ol>
 - template: 3-column-text
   block: three-column-1
