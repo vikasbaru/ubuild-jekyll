@@ -53,8 +53,10 @@ page_sections:
       capabilities, performance, and availability for professional applications    <br><br>No
       rate limits    <br>
   col_3:
-    headline: 3. Ship
-    content: Export your trained model and do cool things with it
+    headline: Enterprise
+    content: 'Call     <br><br>Deploy on-premise with no additional effort         <br><br>Run
+      on latest GPUs          <br><br>Meet the security standards of your organization         <br><br>Combine
+      with in-house models             '
 - template: signup-bar
   block: cta-bar
   background_color: "#380B5F"
