@@ -63,8 +63,8 @@ page_sections:
   media_alignment: Right
   headline: <strong>Free</strong><span class="Apple-converted-space">&nbsp;</span>for
     public projects
-  content: What Github did for open source software, we hope Platform can do for deep
-    learning. We encourage scientists, researchers, students and hobbyist to use Platform
+  content: Platform can do for deep learning what Github has done for open source
+    software. We encourage scientists, researchers, students and hobbyist to use Platform
     to collaboratively solve some of the most challenging vision problems.
   media:
     image: "/uploads/2018/09/15/building.svg"
