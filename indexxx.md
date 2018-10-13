@@ -12,5 +12,7 @@ page_sections:
   - link_text: Home
 - template: detail-content
   block: text-1
+  headline: Platform.ai
+  content: "<p>Deep learning anyone can use</p>"
 
 ---
