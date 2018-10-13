@@ -7,6 +7,5 @@ page_sections:
   block: header-2
 - template: detail-content
   block: text-1
-published: false
 
 ---
