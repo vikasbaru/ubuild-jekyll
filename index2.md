@@ -15,13 +15,9 @@ page_sections:
     link_text: Pricing
   - link: ''
     link_text: Examples
-  - link: https://ctk2h-9a57rt2a.preview.forestry.io/about.html
-    link_text: About
   cta:
     url: platform.ai
     button_text: Join beta
-    undefined: "#9013FE"
-  undefined: "#BD10E0"
 - template: hero-banner-w-image
   block: hero-2
   headline: Platform.ai<strong><br>Deep Learning Anyone Can Use</strong>
