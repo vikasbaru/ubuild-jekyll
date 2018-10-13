@@ -13,14 +13,12 @@ page_sections:
     link_text: Features
   - link: "#"
     link_text: Pricing
-  - link: https://ctk2h-9a57rt2a.preview.forestry.io/faq.html
-    link_text: FAQ
   - link: ''
     link_text: Examples
   - link: https://ctk2h-9a57rt2a.preview.forestry.io/about.html
     link_text: About
   cta:
-    url: www.platform.ai
+    url: platform.ai
     button_text: Join beta
     undefined: "#9013FE"
   undefined: "#BD10E0"

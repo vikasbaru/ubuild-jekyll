@@ -6,8 +6,8 @@ description: >-
   It combines the latest research in human perception, active learning, transfer from pre-trained nets, 
   and noise-resilient training so that the labeler's time is used in the most productive way and the model learns from every 
   aspect of the human interaction.
-baseurl: "/ubuild-jekyll" # the subpath of your site, e.g. /blog
-url: "" # your site's origin, e.g. https://forestry.io
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://platform.ai" # your site's origin, e.g. https://forestry.io
 
 # Build settings
 defaults:
