@@ -27,7 +27,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: Get started
   image:
-    image: "/uploads/2018/09/02/insurance.png"
+    image: "/static/images/play.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
@@ -40,7 +40,7 @@ page_sections:
     pattern recognition with AI's power to process huge datasets to build novel, state-of-the-art
     applications.
   media:
-    image: "/uploads/2018/09/02/indoor-outdoor.png"
+    image: ""
     alt_text: Indoor Outdoor
 - template: content-feature
   block: feature-1
